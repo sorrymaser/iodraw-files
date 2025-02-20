@@ -44,16 +44,16 @@
           <mxGeometry x="418" y="726" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-18" value="选定基于Linux内核模块,&#xa;进行驱动开发与算法优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="418" y="850" width="200" height="66" as="geometry" />
+          <mxGeometry x="418" y="840" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-22" value="系统集成与调试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="418" y="1220" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-24" value="兼容性调试,&#xa;确保电气和通信兼容性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1070" width="200" height="66" as="geometry" />
+          <mxGeometry x="418" y="1070" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-65" value="设计机械结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="416" y="960" width="200" height="66" as="geometry" />
+          <mxGeometry x="418" y="960" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-66" value="光声池与激光参数设计分析" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="390" y="410" width="200" height="67" as="geometry" />
