@@ -55,8 +55,11 @@
         <mxCell id="eQCLBsLj2D49BoVh7Muy-65" value="设计机械结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="418" y="955" width="200" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-66" value="光声池与激光参数设计分析" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-66" value="光声池与激光参数设计分析" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="724" width="210" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-68" value="设计信号处理模块,&#xa;选用低噪高精度元件,采用算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="610" width="200" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
