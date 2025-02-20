@@ -76,7 +76,7 @@
           <mxGeometry x="393" y="1270" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-24" value="兼容性调试,&#xa;确保电气和通信兼容性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="387" y="1060" width="258" height="66" as="geometry" />
+          <mxGeometry x="414" y="1060" width="200" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-3" target="eQCLBsLj2D49BoVh7Muy-4">
           <mxGeometry relative="1" as="geometry">
