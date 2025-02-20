@@ -53,7 +53,7 @@
           <mxGeometry x="389" y="726" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-18" value="选定基于Linux内核模块,进行驱动开发与算法优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1002.5" y="660" width="248" height="66" as="geometry" />
+          <mxGeometry x="389" y="850" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-22" value="系统集成与调试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="523" y="1220" width="172" height="49" as="geometry" />
