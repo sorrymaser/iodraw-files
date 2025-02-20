@@ -13,13 +13,14 @@
         <mxCell id="eQCLBsLj2D49BoVh7Muy-4" value="功能模块设计分析" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="438" y="520" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="700" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-5" target="eQCLBsLj2D49BoVh7Muy-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-5" value="光声池与激光参数设计分析" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="47" y="600" width="224" height="67" as="geometry" />
+          <mxGeometry x="51" y="600" width="224" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-7" target="eQCLBsLj2D49BoVh7Muy-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-7" value="深入研究光声效应机理模型,收集分析数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="710" width="250" height="66" as="geometry" />
