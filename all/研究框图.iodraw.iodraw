@@ -47,7 +47,7 @@
           <mxGeometry x="38" y="1150" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-16" value="设计信号处理模块,选用低噪高精度元件,采用算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="389" y="660" width="258" height="66" as="geometry" />
+          <mxGeometry x="389" y="610" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-17" value="设计通信与存储模块,采用通信接口和存储方案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="694.5" y="660" width="258" height="66" as="geometry" />
