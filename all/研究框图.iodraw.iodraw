@@ -37,6 +37,9 @@
         <mxCell id="eQCLBsLj2D49BoVh7Muy-11" value="对比仿真结果,设计模块化光声池" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="930" width="250" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-13" target="eQCLBsLj2D49BoVh7Muy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-13" value="建立多维关联模型,&#xa;研究特征波段光声信号产生效率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="1040" width="250" height="66" as="geometry" />
         </mxCell>
@@ -60,9 +63,6 @@
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-24" value="兼容性调试,确保电气和通信兼容性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="1456" width="258" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-25" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="563" y="1572" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-3" target="eQCLBsLj2D49BoVh7Muy-4">
           <mxGeometry relative="1" as="geometry">
@@ -112,11 +112,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-23" target="eQCLBsLj2D49BoVh7Muy-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-24" target="eQCLBsLj2D49BoVh7Muy-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
