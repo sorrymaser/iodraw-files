@@ -55,7 +55,7 @@
         <mxCell id="eQCLBsLj2D49BoVh7Muy-65" value="设计机械结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="418" y="955" width="200" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-68" value="光声池与激光参数设计分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-68" value="功能模块设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="725" width="200" height="66" as="geometry" />
         </mxCell>
       </root>
