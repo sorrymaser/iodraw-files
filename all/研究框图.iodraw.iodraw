@@ -22,11 +22,8 @@
         <mxCell id="eQCLBsLj2D49BoVh7Muy-9" value="利用Comsol构建光声池三维模型,&#xa;仿真多种参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="840" width="250" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-10" value="仿真结果" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="119" y="1078" width="79" height="79" as="geometry" />
-        </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-11" value="对比仿真结果,设计模块化光声池" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1207" width="258" height="66" as="geometry" />
+          <mxGeometry x="38" y="1030" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-12" value="设计结果" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="119" y="1323" width="79" height="79" as="geometry" />
@@ -81,14 +78,10 @@
             <mxPoint x="160" y="670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-9" target="eQCLBsLj2D49BoVh7Muy-10">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-10" target="eQCLBsLj2D49BoVh7Muy-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="163.00000000000023" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-11" target="eQCLBsLj2D49BoVh7Muy-12">
