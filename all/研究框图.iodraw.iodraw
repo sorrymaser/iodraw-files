@@ -17,13 +17,13 @@
           <mxGeometry x="47" y="600" width="224" height="67" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-7" value="深入研究光声效应机理模型,收集分析数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="38" y="726" width="250" height="66" as="geometry" />
+          <mxGeometry x="38" y="710" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-9" value="利用Comsol构建光声池三维模型,&#xa;仿真多种参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="38" y="840" width="250" height="66" as="geometry" />
+          <mxGeometry x="38" y="820" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-11" value="对比仿真结果,设计模块化光声池" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="38" y="950" width="252" height="66" as="geometry" />
+          <mxGeometry x="38" y="930" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-13" value="建立多维关联模型,&#xa;研究特征波段光声信号产生效率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="1060" width="252" height="66" as="geometry" />
