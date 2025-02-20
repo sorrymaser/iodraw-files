@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="eQCLBsLj2D49BoVh7Muy-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="162.99999999999977" y="666.9999999999998" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-7" target="eQCLBsLj2D49BoVh7Muy-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -32,6 +27,9 @@
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-13" value="建立多维关联模型,&#xa;研究特征波段光声信号产生效率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="63" y="1040" width="200" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-15" target="eQCLBsLj2D49BoVh7Muy-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-15" value="设计多波长脉冲组合激发方案,&#xa;筛选最优激光参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="63" y="1150" width="200" height="66" as="geometry" />
@@ -68,6 +66,9 @@
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-68" value="功能模块设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="725" width="200" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-73" target="eQCLBsLj2D49BoVh7Muy-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-73" value="光声池与激光参数设计分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="63" y="600" width="200" height="66" as="geometry" />
