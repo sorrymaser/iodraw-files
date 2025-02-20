@@ -29,7 +29,7 @@
           <mxGeometry x="38" y="820" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-11" value="对比仿真结果,设计模块化光声池" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="38" y="930" width="252" height="66" as="geometry" />
+          <mxGeometry x="38" y="930" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-13" value="建立多维关联模型,&#xa;研究特征波段光声信号产生效率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="1040" width="252" height="66" as="geometry" />
