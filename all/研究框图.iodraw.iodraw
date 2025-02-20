@@ -23,16 +23,10 @@
           <mxGeometry x="38" y="840" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-11" value="对比仿真结果,设计模块化光声池" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="38" y="1030" width="258" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-12" value="设计结果" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="119" y="1323" width="79" height="79" as="geometry" />
+          <mxGeometry x="38" y="1030" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-13" value="建立多维关联模型,研究特征波段光声信号产生效率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1452" width="258" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-14" value="研究结果" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="109" y="1568" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-15" value="设计多波长脉冲组合激发方案,筛选最优激光参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="23" y="1697" width="252" height="66" as="geometry" />
@@ -84,26 +78,22 @@
             <mxPoint x="163.00000000000023" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-11" target="eQCLBsLj2D49BoVh7Muy-12">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="158.5" y="1323" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-12" target="eQCLBsLj2D49BoVh7Muy-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="149" y="1427" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-13" target="eQCLBsLj2D49BoVh7Muy-14">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="148.5" y="1568" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-14" target="eQCLBsLj2D49BoVh7Muy-15">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="eQCLBsLj2D49BoVh7Muy-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="148.5" y="1647" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-4" target="eQCLBsLj2D49BoVh7Muy-16">
@@ -161,11 +151,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.69;entryX=0;entryY=0.19;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-12" target="eQCLBsLj2D49BoVh7Muy-22">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.69;entryX=0;entryY=0.19;rounded=0;" edge="1" parent="1" target="eQCLBsLj2D49BoVh7Muy-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="327" y="1427" />
             </Array>
+            <mxPoint x="195.56455311427817" y="1376.1553616736815" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-22" target="eQCLBsLj2D49BoVh7Muy-23">
