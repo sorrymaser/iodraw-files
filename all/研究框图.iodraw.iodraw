@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="aYQ07DRHYlT1G06FA697">
-    <mxGraphModel dx="1615" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-7" value="深入研究光声效应机理模型,收集分析数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="716" width="258" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-8" value="分析结果" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="119" y="832" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-9" value="利用Comsol构建光声池三维模型,仿真多种参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="31" y="962" width="255" height="66" as="geometry" />
@@ -84,14 +81,16 @@
             <mxPoint x="160" y="670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-7" target="eQCLBsLj2D49BoVh7Muy-8">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="159" y="832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-8" target="eQCLBsLj2D49BoVh7Muy-9">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="eQCLBsLj2D49BoVh7Muy-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="159" y="912" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-9" target="eQCLBsLj2D49BoVh7Muy-10">
