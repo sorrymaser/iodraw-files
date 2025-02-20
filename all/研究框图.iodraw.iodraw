@@ -50,7 +50,7 @@
           <mxGeometry x="389" y="610" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-17" value="设计通信与存储模块,采用通信接口和存储方案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="694.5" y="660" width="258" height="66" as="geometry" />
+          <mxGeometry x="389" y="726" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-18" value="选定基于Linux内核模块,进行驱动开发与算法优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1002.5" y="660" width="248" height="66" as="geometry" />
@@ -86,24 +86,6 @@
             <Array as="points">
               <mxPoint x="1127" y="608" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="518" y="800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="826" y="800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1128.9999999999995" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-22" target="eQCLBsLj2D49BoVh7Muy-23">
