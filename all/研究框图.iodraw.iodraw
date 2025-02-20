@@ -70,6 +70,9 @@
         <mxCell id="eQCLBsLj2D49BoVh7Muy-68" value="功能模块设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="725" width="200" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-73" value="功能模块设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="720" y="735" width="200" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
