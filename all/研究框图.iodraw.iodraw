@@ -20,7 +20,7 @@
           <mxGeometry x="30" y="716" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-9" value="利用Comsol构建光声池三维模型,仿真多种参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="830" width="255" height="66" as="geometry" />
+          <mxGeometry x="30" y="830" width="260" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-10" value="仿真结果" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="119" y="1078" width="79" height="79" as="geometry" />
@@ -79,12 +79,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="160" y="670" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-7" target="eQCLBsLj2D49BoVh7Muy-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="159" y="832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-9" target="eQCLBsLj2D49BoVh7Muy-10">
