@@ -23,10 +23,10 @@
           <mxGeometry x="38" y="840" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-11" value="对比仿真结果,设计模块化光声池" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="38" y="1020" width="252" height="66" as="geometry" />
+          <mxGeometry x="38" y="950" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-13" value="建立多维关联模型,&#xa;研究特征波段光声信号产生效率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="38" y="1130" width="252" height="66" as="geometry" />
+          <mxGeometry x="38" y="1060" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-15" value="设计多波长脉冲组合激发方案,筛选最优激光参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="1230" width="252" height="66" as="geometry" />
@@ -70,12 +70,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="160" y="670" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="163" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-4" target="eQCLBsLj2D49BoVh7Muy-16">
