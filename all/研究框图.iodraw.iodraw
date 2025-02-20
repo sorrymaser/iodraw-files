@@ -20,7 +20,7 @@
           <mxGeometry x="30" y="716" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-9" value="利用Comsol构建光声池三维模型,仿真多种参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="830" width="260" height="66" as="geometry" />
+          <mxGeometry x="30" y="782" width="260" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-10" value="仿真结果" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="119" y="1078" width="79" height="79" as="geometry" />
