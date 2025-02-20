@@ -4,11 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-5" target="eQCLBsLj2D49BoVh7Muy-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-5" value="光声池与激光参数设计分析" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="63" y="600" width="200" height="67" as="geometry" />
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="eQCLBsLj2D49BoVh7Muy-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162.99999999999977" y="666.9999999999998" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-7" target="eQCLBsLj2D49BoVh7Muy-9">
           <mxGeometry relative="1" as="geometry" />
@@ -70,8 +69,8 @@
         <mxCell id="eQCLBsLj2D49BoVh7Muy-68" value="功能模块设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="725" width="200" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-73" value="功能模块设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="735" width="200" height="66" as="geometry" />
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-73" value="光声池与激光参数设计分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="63" y="600" width="200" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
