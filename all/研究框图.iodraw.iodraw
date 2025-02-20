@@ -11,7 +11,7 @@
           <mxGeometry x="438" y="520" width="160" height="34" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-5" value="光声池与激光参数设计分析" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="47" y="633" width="224" height="34" as="geometry" />
+          <mxGeometry x="47" y="600" width="224" height="67" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-7" value="深入研究光声效应机理模型,收集分析数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="716" width="258" height="66" as="geometry" />
@@ -75,11 +75,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-4" target="eQCLBsLj2D49BoVh7Muy-5">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="159" y="608" />
             </Array>
+            <mxPoint x="160" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-31" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="eQCLBsLj2D49BoVh7Muy-7">
