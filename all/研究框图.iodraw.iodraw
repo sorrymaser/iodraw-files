@@ -8,55 +8,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-7" value="深入研究光声效应机理模型,&#xa;收集分析数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="63" y="710" width="200" height="66" as="geometry" />
+          <mxGeometry x="63" y="710" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" source="eQCLBsLj2D49BoVh7Muy-9" target="eQCLBsLj2D49BoVh7Muy-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-9" value="利用Comsol构建光声池三维模型,&#xa;仿真多种参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="63" y="820" width="200" height="66" as="geometry" />
+          <mxGeometry x="63" y="820" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" source="eQCLBsLj2D49BoVh7Muy-11" target="eQCLBsLj2D49BoVh7Muy-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-11" value="对比仿真结果,&#xa;设计模块化光声池" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="63" y="930" width="200" height="66" as="geometry" />
+          <mxGeometry x="63" y="930" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" source="eQCLBsLj2D49BoVh7Muy-13" target="eQCLBsLj2D49BoVh7Muy-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-13" value="建立多维关联模型,&#xa;研究特征波段光声信号产生效率" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="63" y="1040" width="200" height="66" as="geometry" />
+          <mxGeometry x="63" y="1040" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" source="eQCLBsLj2D49BoVh7Muy-15" target="eQCLBsLj2D49BoVh7Muy-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-15" value="设计多波长脉冲组合激发方案,&#xa;筛选最优激光参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="63" y="1150" width="200" height="66" as="geometry" />
+          <mxGeometry x="63" y="1150" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-16" value="设计信号处理模块,&#xa;选用低噪高精度元件,采用算法" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="600" width="200" height="66" as="geometry" />
+          <mxGeometry x="380" y="600" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-17" value="设计通信与存储模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="740" width="200" height="66" as="geometry" />
+          <mxGeometry x="380" y="740" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-18" value="选定基于Linux内核模块,&#xa;进行驱动开发与算法优化" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="880" width="200" height="66" as="geometry" />
+          <mxGeometry x="380" y="880" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-22" value="系统集成与调试" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="657" y="1150" width="200" height="66" as="geometry" />
+          <mxGeometry x="657" y="1150" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" source="eQCLBsLj2D49BoVh7Muy-24" target="eQCLBsLj2D49BoVh7Muy-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-24" value="兼容性调试,&#xa;确保电气和通信兼容性" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1150" width="200" height="66" as="geometry" />
+          <mxGeometry x="380" y="1150" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" source="eQCLBsLj2D49BoVh7Muy-65" target="eQCLBsLj2D49BoVh7Muy-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-65" value="设计机械结构，组装测试系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1010" width="200" height="66" as="geometry" />
+          <mxGeometry x="380" y="1010" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-69" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" source="eQCLBsLj2D49BoVh7Muy-68" target="eQCLBsLj2D49BoVh7Muy-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -71,13 +71,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-68" value="功能模块设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="657" y="740" width="200" height="66" as="geometry" />
+          <mxGeometry x="657" y="740" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" source="eQCLBsLj2D49BoVh7Muy-73" target="eQCLBsLj2D49BoVh7Muy-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-73" value="光声池与激光参数设计分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;horizontal=1;verticalAlign=middle;labelBorderColor=none;textShadow=0;spacing=5;spacingLeft=0;spacingBottom=0;spacingTop=0;" parent="1" vertex="1">
-          <mxGeometry x="63" y="600" width="207" height="66" as="geometry" />
+          <mxGeometry x="63" y="600" width="220" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
