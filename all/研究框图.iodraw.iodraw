@@ -63,7 +63,7 @@
         <mxCell id="eQCLBsLj2D49BoVh7Muy-15" value="设计多波长脉冲组合激发方案,筛选最优激光参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="1150" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-16" value="设计信号处理模块,选用低噪高精度元件,采用算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-16" value="设计信号处理模块,&#xa;选用低噪高精度元件,采用算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="393" y="610" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-17" value="设计通信与存储模块,采用通信接口和存储方案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -74,9 +74,6 @@
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-22" value="系统集成与调试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="523" y="1220" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-23" value="系统集成,设计机械结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="496" y="1342" width="226" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eQCLBsLj2D49BoVh7Muy-24" value="兼容性调试,确保电气和通信兼容性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480" y="1420" width="258" height="66" as="geometry" />
@@ -91,15 +88,20 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-22" target="eQCLBsLj2D49BoVh7Muy-23">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="609" y="1342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQCLBsLj2D49BoVh7Muy-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eQCLBsLj2D49BoVh7Muy-23" target="eQCLBsLj2D49BoVh7Muy-24">
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="eQCLBsLj2D49BoVh7Muy-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="609" y="1391" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eQCLBsLj2D49BoVh7Muy-65" value="系统集成,设计机械结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="393" y="980" width="226" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
